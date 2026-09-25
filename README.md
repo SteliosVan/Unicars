@@ -33,7 +33,5 @@ This is an Android application developed using Flutter.
 - Tested on:
   - Physical Android device
 
-APK and source code are available at the following cloud link:
-https://drive.google.com/drive/folders/1dY7akBYdqvTwgzjG5L3Bl2hBZ4-u3P1z?usp=drive_link
 
 ---
