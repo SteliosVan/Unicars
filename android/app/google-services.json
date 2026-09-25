@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184950741015",
+    "project_id": "unicars-38eef",
+    "storage_bucket": "unicars-38eef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184950741015:android:473ecc4ddf8994f9cba452",
+        "android_client_info": {
+          "package_name": "com.company.unicars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7Md8btNmHQmWtIHv4kpMN1kvDTze0eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184950741015:android:4ee210a0acd9d783cba452",
+        "android_client_info": {
+          "package_name": "com.example.unicars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb7Md8btNmHQmWtIHv4kpMN1kvDTze0eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
